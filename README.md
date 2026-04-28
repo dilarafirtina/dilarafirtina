@@ -11,7 +11,6 @@
 
 - 💬 Ask me about **NodeJS, Javascript, HTML, CSS, MongoDB,**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/firtina/](https://www.linkedin.com/in/firtina/)
 
 - ⚡ Fun fact **Besides programming languages, I am also passionate about learning languages.**
 
